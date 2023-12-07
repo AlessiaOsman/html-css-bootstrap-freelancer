@@ -1,9 +1,11 @@
 /*header*/
-header{
+header,
+footer{
     height: 100px;
 }
 
-.jumbotron{
+.jumbotron,
+.form{
     min-height: 300px;
 }
 
