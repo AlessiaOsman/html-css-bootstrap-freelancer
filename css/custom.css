@@ -2,3 +2,15 @@
 header{
     height: 100px;
 }
+
+.jumbotron{
+    min-height: 300px;
+}
+
+.row{
+    border: 2px dashed red;
+}
+
+.cs-col{
+    border: 2px dashed green;
+}
