@@ -8,13 +8,6 @@ footer{
     min-height: 300px;
 }
 
-.row{
-    border: 2px dashed red;
-}
-
-.cs-col{
-    border: 2px dashed #1df5a2;
-}
 
 .bg-color-dark-blue{
     background-color: #2C3E50;
@@ -24,12 +17,19 @@ footer{
     background-color: #1df5a2;
 }
 
+.text-color-dark-blue{
+    color: #2C3E50;
+}
+
 .separator{
     height: 5px;
-    background-color: #fff;
-    width: 20%;
 }
 
 .star{
     font-size: 32px;
+}
+
+img{
+    width: 100%;
+    height: auto;
 }
