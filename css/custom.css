@@ -3,7 +3,7 @@ footer{
     height: 100px;
 }
 
-.jumbotron,
+
 .form{
     min-height: 300px;
 }
@@ -13,9 +13,23 @@ footer{
 }
 
 .cs-col{
-    border: 2px dashed green;
+    border: 2px dashed #1df5a2;
 }
 
 .bg-color-dark-blue{
     background-color: #2C3E50;
+}
+
+.bg-color-green{
+    background-color: #1df5a2;
+}
+
+.separator{
+    height: 5px;
+    background-color: #fff;
+    width: 20%;
+}
+
+.star{
+    font-size: 32px;
 }
